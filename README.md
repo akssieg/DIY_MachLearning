@@ -35,3 +35,8 @@ Stuff implemented/explored:
 * Regularization
 [cs229 notes](http://cs229.stanford.edu/notes/cs229-notes5.pdf)
 * Neural Networks (brief overview)
+
+===============================
+### Other useful resources
+
+https://github.com/jakevdp/PythonDataScienceHandbook
